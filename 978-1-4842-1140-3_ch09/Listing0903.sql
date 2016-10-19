@@ -1,0 +1,8 @@
+USE [AdventureWorks]
+GO
+
+CREATE TABLE AO_Test
+  (
+  ID UNIQUEIDENTIFIER PRIMARY KEY,
+  RandomData VARCHAR(50)
+  );
